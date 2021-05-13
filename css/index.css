@@ -6,6 +6,7 @@
     width: 400px;
     background-color: #00f;
 }
+<<<<<<< HEAD
 .box h2{
     width: 300px;
     background-color: #0f0;
@@ -14,4 +15,9 @@ body,html,.box,.box h2,.box p,.box h1{
     margin: 0;
     padding: 0;
    
+=======
+.boss{
+    width: 300px;
+    background-color: #0f0;
+>>>>>>> 5dd6ae1670efaeaade6234a7d946e2ef422c3411
 }
