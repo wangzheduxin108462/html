@@ -6,3 +6,12 @@
     width: 400px;
     background-color: #00f;
 }
+.box h2{
+    width: 300px;
+    background-color: #0f0;
+}
+body,html,.box,.box h2,.box p,.box h1{
+    margin: 0;
+    padding: 0;
+   
+}
