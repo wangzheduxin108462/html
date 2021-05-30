@@ -1,23 +1,17 @@
-.box h1{
+.box{
     width: 500px;
-    background-color: #ff0;
+    /* height: 500px; */
+    border: 1px solid red;
+    display: flex;
+    /* overflow: hidden; */
 }
-.box p{
-    width: 400px;
-    background-color: #00f;
+.smalbox1{
+    width: 100px;
+    height: 400px;
+    background-color: blue;
 }
-<<<<<<< HEAD
-.box h2{
-    width: 300px;
-    background-color: #0f0;
-}
-body,html,.box,.box h2,.box p,.box h1{
-    margin: 0;
-    padding: 0;
-   
-=======
-.boss{
-    width: 300px;
-    background-color: #0f0;
->>>>>>> 5dd6ae1670efaeaade6234a7d946e2ef422c3411
+.smalbox2{
+    flex-grow: 0.8;
+    height: 300px;
+    background-color: green;
 }
